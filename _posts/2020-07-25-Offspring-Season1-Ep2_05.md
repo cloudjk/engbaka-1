@@ -34,3 +34,4 @@ tags: [Offspring, Season 1]
 
 ### 10. 아버지가 이것들을 전해주라고 부탁했어요.
     Dad asked me to drop these around.
+    
