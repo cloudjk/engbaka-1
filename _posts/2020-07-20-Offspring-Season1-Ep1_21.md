@@ -61,4 +61,3 @@ tags: [Offspring, Season 1]
 
 ### 19. 그녀한테 너무 미안해 하지 말라고 얘기해 주실래요.    
     Please tell her not to feel bad?
-    
