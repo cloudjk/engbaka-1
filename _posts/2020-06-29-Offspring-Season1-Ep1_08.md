@@ -36,4 +36,4 @@ tags: [Offspring, Season 1]
      back off
 
 ### 11. 그녀가 자신의 삶을 살게 해줘.
-     Let her get on with her life.
+     Let her get on with her life. 
