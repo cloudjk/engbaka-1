@@ -1,8 +1,8 @@
 ---
 layout: post
-title: WorldLanguageSchool Business English 400
+title: WorldLanguageSchool Business English 400 part 1
 author: cloudjk
-tags: [worldlanguageschool, business, english, 400]
+tags: [worldlanguageschool, business, english, 400, part1]
 ---
 
 그는 말이 많은 사람이예요
