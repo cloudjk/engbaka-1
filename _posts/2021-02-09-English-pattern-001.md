@@ -5,7 +5,7 @@ author: cloudjk
 tags: [english, pattern, 100]
 ---
 
-### 1. 니가 말한 거 확실해?
+### 1. 니가 말한 거 확실해? 🔥
 
     Are you sure what you said?
 
@@ -25,7 +25,7 @@ tags: [english, pattern, 100]
 
     How can I? I already spent a lot of money on this one.
 
-### 6. 그럼 수리하는데 많은 돈을 지불하겠네.
+### 6. 그럼 수리하는데 많은 돈을 지불하겠네. 🔥
 
     I guess you'll be spending a lot of money on repairs then.
 
@@ -33,7 +33,7 @@ tags: [english, pattern, 100]
 
     I guess so. Unless, you want to buy the car.
 
-### 8. 고맙지만 사양할께. 니 차를 사고 싶어 할거라고 생각하지 않아. 너무 많은 문제가 있잖아.
+### 8. 고맙지만 사양할께. 니 차를 사고 싶어 할거라고 생각하지 않아. 너무 많은 문제가 있잖아.🔥
 
     No thanks. I don't think I'd want to buy your car. It has too many problems.
 
@@ -65,6 +65,6 @@ tags: [english, pattern, 100]
 
     Are you used to eating the food here?
 
-### 16. 익숙해 지는데 좀 걸렸지만 이젠 아주 쉬워
+### 16. 익숙해 지는데 좀 걸렸지만 이젠 아주 쉬워 🔥
 
     It took me a while to get used to it but now it's a piece of cake.
