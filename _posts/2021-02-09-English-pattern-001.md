@@ -25,11 +25,11 @@ tags: [english, pattern, 100]
 
     How can I? I already spent a lot of money on this one.
 
-### 6. 그럼 수리하는데 많은 돈을 지불하겠네. 🔥
+### 6. 그럼 수리하는데 많은 돈을 지불하겠네. 🔥🔥
 
     I guess you'll be spending a lot of money on repairs then.
 
-### 7. 그러겠지. 니가 그걸 사길 원하지 않는다면
+### 7. 그러겠지. 니가 그걸 사길 원하지 않는다면 🔥
 
     I guess so. Unless, you want to buy the car.
 
