@@ -13,11 +13,11 @@ tags: [english, pattern, 100]
 
     Are you sure that he is not coming?
 
-### 3. 내 새차는 문제가 정말 많았어. 정말 미쳐버리겠어.
+### 3. 내 새차는 문제가 정말 많았어. 정말 미쳐버리겠어. 🔥
 
     I've had so many problems with my new car. It's driving me crazy.
 
-### 4. 새 차 사고 싶지 않은 거 확실해?
+### 4. 새 차 사고 싶지 않은 거 확실해? 🔥
 
     Are you sure you don't want to buy a new one?
 
