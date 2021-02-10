@@ -2,7 +2,7 @@
 layout: post
 title: English pattern 001
 author: cloudjk
-tags: [english, pattern, 100]
+tags: [english, pattern, 100, 1]
 ---
 
 ### 1. 니가 말한 거 확실해? 🔥
