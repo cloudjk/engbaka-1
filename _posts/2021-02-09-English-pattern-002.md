@@ -45,10 +45,6 @@ tags: [english, pattern, 100, 2]
 
     I think she's interested in me.
 
-### 11. 어떻게 알아?
-
-    How do you know?
-
 ### 12.그녀 친구가 나한테 얘기했어.
 
     A friend of hers told me.
