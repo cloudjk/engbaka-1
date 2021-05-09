@@ -5,7 +5,7 @@ author: cloudjk
 tags: [english, pattern, 100, 2]
 ---
 
-### 1. 내 생각엔 니가 미니스커트 입는거에 게의치 않아.
+### 1. 내 생각엔 니가 미니스커트 입는거에 게의치 않아
 
     As far as I'm concerned, I don't mind that you wear this mini skirt.
 
